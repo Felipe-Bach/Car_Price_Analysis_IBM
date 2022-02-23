@@ -1,4 +1,4 @@
-# carpriceanalysis_ibm
+# Data Analysis with Python / IBM Course
 Study of data analysis with car prices 
 
 First upload: 23/02/22. 
